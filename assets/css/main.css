@@ -18,6 +18,13 @@
 		vertical-align: baseline;
 	}
 
+	.inner .subtext {
+		margin-top: : 10px;
+		font-size: 14px;
+	}
+
+
+
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 		display: block;
 	}
